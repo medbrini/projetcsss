@@ -1,0 +1,17 @@
+h1 {color:rgb(255, 0, 0)}
+nav {border: 10px solid brown;
+    color: blue;text-align:center}
+    nav {display: inline;}
+    body {font-family: roboto;background: aquamarine;}
+    
+.med p {color: rgb(87, 165, 42);}
+nav {padding: 20px;padding: left 50px;}
+.mm {padding: 20px;padding: left 20px; padding: right 20px}
+form {margin:10px;margin: top 10px;margin: bottom 10px;margin: left 10px;margin: right 10px;;}
+.brini {
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgba(14, 12, 12, 0.299);
+    display: inline-block; }
+    .brini p {color: blueviolet;font-style: italic;font-size: medium;}
+#me {color: blueviolet;font-style: oblique;}
